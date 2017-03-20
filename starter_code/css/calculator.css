@@ -9,6 +9,11 @@
 	font-size: 60px;
 }
 
+.col-md-2 {
+	width: 20%;
+	float: left;
+}
+
 #answer
 {
 	margin-top: 30px;
